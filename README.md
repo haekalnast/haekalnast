@@ -1,5 +1,5 @@
 
-## Hi, I'm Bagas Al Haekal <br><br>Product Designer focused on fintech, payments, and business systems.<br><br>Currently building digital products across SFAST, Dipay, and BPR Qaya.<br><br>Previously worked as a Product Specialist at CIMB Niaga.
+Hi, I'm Bagas Al Haekal <br><br>Product Designer focused on fintech, payments, and business systems.<br><br>Currently building digital products across SFAST, Dipay, and BPR Qaya.<br><br>Previously worked as a Product Specialist at CIMB Niaga.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haekalnast) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alhaekalnast@gmail.com) 
 
