@@ -1,5 +1,5 @@
 
-### Hi, I'm Bagas Al Haekal
+### Hi, I'm Bagas Al Haekal Nasution
 
 Product Designer focused on fintech, payments, and business systems.
 
