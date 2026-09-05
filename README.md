@@ -1,4 +1,4 @@
-# Hi, I'm Bagas Al Haekal Nasution
+# Summary
 
 Product Design Engineer focused on designing and building digital products across fintech, payments, investment, and business systems.
 
