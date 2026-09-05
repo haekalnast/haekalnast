@@ -1,8 +1,10 @@
 # About Me
 
-Product Design Engineer focused on designing and building digital products across fintech, payments, investment, and business systems. 
+Product Design Engineer with 5+ years of experience designing and building digital products across fintech, investment, payments, and business platforms. 
 
-Combining product design, software engineering, and business analysis to turn business requirements into production-ready products.
+Combining product design, software engineering, and business analysis to translate business needs into user experiences, technical solutions, and production-ready products.
+
+Experienced in product discovery, UX/UI design, requirements analysis, prototyping, UAT, Design QA, and cross-functional product delivery.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haekalnast/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alhaekalnast.com) 
