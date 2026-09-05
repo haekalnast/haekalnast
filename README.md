@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Bagas Al Haekal Nasution<br><br>Product Design Engineer focused on designing and building digital products across fintech, payments, investment, and business systems.<br><br>Combining product design, software engineering, and business analysis to turn business requirements into production-ready products.<br><br>## Tech Stack<br><br>- TypeScript, React, Next.js, Node.js<br>- PostgreSQL, SQL Server<br>- REST APIs<br>- Git, GitHub<br>- Vercel<br>- Figma
+Hi, I'm Bagas Al Haekal Nasution<br><br>Product Design Engineer focused on designing and building digital products across fintech, payments, investment, and business systems.<br><br>Combining product design, software engineering, and business analysis to turn business requirements into production-ready products.<br><br>## Tech Stack<br><br>- TypeScript, React, Next.js, Node.js<br>- PostgreSQL, SQL Server<br>- REST APIs<br>- Git, GitHub<br>- Vercel<br>- Figma
 
 
 ## 🌐 Socials:
